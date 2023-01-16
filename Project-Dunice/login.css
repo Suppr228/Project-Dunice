@@ -1,0 +1,183 @@
+body {
+  background: #34ece1bf;
+}
+h1 {
+  position: absolute;
+  width: 366px;
+  height: 61px;
+  left: 680px;
+  top: 190px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 61px;
+  color: #000000;
+}
+h3 {
+  position: absolute;
+  width: 494px;
+  height: 148px;
+  left: 215px;
+  top: 421px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 43px;
+
+  color: #000000;
+}
+h4 {
+  position: absolute;
+  width: 136px;
+  height: 37px;
+  left: 318px;
+  top: 83px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 37px;
+  color: #000000;
+}
+h2 {
+  position: absolute;
+  width: 167.39px;
+  height: 47.19px;
+  left: 1218px;
+  top: 93px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #000000;
+}
+.potato {
+  position: absolute;
+  width: 103px;
+  height: 85px;
+  left: 215px;
+  top: 34px;
+}
+.support {
+  position: absolute;
+  width: 28.44px;
+  height: 32px;
+  left: 1171px;
+  top: 83px;
+}
+.mainwindow {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 102px 162px;
+
+  position: absolute;
+  width: 800px;
+  height: 500px;
+  left: 430px;
+  top: 270px;
+
+  background: #cf69a3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.form-login {
+  position: absolute;
+  width: 470px;
+  height: 60px;
+  left: 162px;
+  top: 102px;
+
+  background: #ffffff;
+  border-radius: 10px;
+}
+.form-password {
+  position: absolute;
+  width: 470px;
+  height: 60px;
+  left: 162px;
+  top: 262px;
+
+  background: #ffffff;
+  border-radius: 10px;
+  font-family: URW Chancery L, cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 43px;
+  /* identical to box height */
+
+  color: rgba(0, 0, 0, 0.25);
+}
+.form-login {
+  position: absolute;
+  width: 470px;
+  height: 60px;
+  left: 162px;
+  top: 102px;
+  background: #ffffff;
+  border-radius: 10px;
+  font-family: URW Chancery L, cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 43px;
+  /* identical to box height */
+  color: rgba(0, 0, 0, 0.25);
+}
+.btn-info {
+  position: absolute;
+  width: 300px;
+  height: 70px;
+  left: -400px;
+  top: -389px;
+
+  background: rgb(42, 195, 200);
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #110e0e;
+}
+h5 {
+  position: absolute;
+  width: 490px;
+  height: 30px;
+  left: 640px;
+  top: 720px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #000000;
+}
+a {
+  position: absolute;
+  width: 477px;
+  height: 30px;
+  left: 650px;
+  top: 775px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+  text-decoration: none;
+  color: #000000;
+}

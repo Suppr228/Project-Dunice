@@ -1,0 +1,167 @@
+body {
+  background: #34ece1bf;
+  font-family: "Montserrat", sans-serif;
+}
+h4 {
+  position: absolute;
+  width: 136px;
+  height: 37px;
+  left: 318px;
+  top: 82px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 37px;
+  color: #000000;
+}
+h2 {
+  position: absolute;
+  width: 167.39px;
+  height: 47.19px;
+  left: 1238px;
+  top: 73px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #000000;
+}
+.potato {
+  position: absolute;
+  width: 103px;
+  height: 85px;
+  left: 215px;
+  top: 34px;
+}
+.servise {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1173px;
+  top: 91;
+  margin-top: 61px;
+}
+h1 {
+  position: absolute;
+  width: 358px;
+  height: 61px;
+  left: 658px;
+  top: 120px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 61px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.form-name {
+  position: absolute;
+  width: 528px;
+  height: 60px;
+  left: 550px;
+  top: 230px;
+
+  background: #ffffff;
+  border-radius: 10px;
+  font-family: URW Chancery L, cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 43px;
+  /* identical to box height */
+
+  color: rgba(0, 0, 0, 0.25);
+}
+.institute {
+  position: absolute;
+  width: 528px;
+  height: 60px;
+  left: 550px;
+  top: 330px;
+
+  background: #ffffff;
+  border-radius: 10px;
+  font-family: URW Chancery L, cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 43px;
+  /* identical to box height */
+
+  color: rgba(0, 0, 0, 0.25);
+}
+.mail {
+  position: absolute;
+  width: 528px;
+  height: 60px;
+  left: 550px;
+  top: 435px;
+
+  background: #ffffff;
+  border-radius: 10px;
+  font-family: URW Chancery L, cursive;
+  font-style: initial;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 43px;
+  /* identical to box height */
+
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.password {
+  position: absolute;
+  width: 528px;
+  height: 60px;
+  left: 550px;
+  top: 540px;
+
+  background: #ffffff;
+  border-radius: 10px;
+  font-family: URW Chancery L, cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 43px;
+  /* identical to box height */
+
+  color: rgba(0, 0, 0, 0.25);
+}
+.reg-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  position: absolute;
+  width: 528px;
+  height: 270px;
+  left: 536px;
+  top: 200px;
+}
+.btn-info {
+  position: absolute;
+  width: 510px;
+  height: 95px;
+  left: 560px;
+  top: 680px;
+
+  background: #ed66b3;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 49px;
+  /* identical to box height */
+
+  color: #ffffff;
+}

@@ -1,0 +1,110 @@
+body {
+  background: #34ece1bf;
+}
+h1 {
+  position: absolute;
+  width: 495px;
+  height: 203px;
+  left: 220px;
+  top: 263px;
+
+  font-style: initial;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 67px;
+  color: #000000;
+}
+h3 {
+  position: absolute;
+  width: 494px;
+  height: 148px;
+  left: 215px;
+  top: 421px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 43px;
+
+  color: #000000;
+}
+.btn-info {
+  position: absolute;
+  width: 316px;
+  height: 85px;
+  left: 215px;
+  top: 600px;
+  background: #cf69a3;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 49px;
+  color: #e5e5e5;
+}
+
+h4 {
+  position: absolute;
+  width: 136px;
+  height: 37px;
+  left: 318px;
+  top: 83px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 37px;
+  color: #000000;
+}
+h2 {
+  position: absolute;
+  width: 167.39px;
+  height: 47.19px;
+  left: 1218px;
+  top: 80px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #000000;
+}
+.potato {
+  position: absolute;
+  width: 103px;
+  height: 85px;
+  left: 215px;
+  top: 34px;
+}
+.servise {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1145px;
+  top: 10px;
+  margin-top: 50px;
+}
+.diagramma {
+  position: absolute;
+  width: 530px;
+  height: 480px;
+  left: 900px;
+  top: 230px;
+  background-image: none;
+}
+a {
+  position: absolute;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+  text-decoration: none;
+  color: #000000;
+}
